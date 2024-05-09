@@ -1,6 +1,6 @@
 flows:
-  195fc342-8b6b-4470-bc18-4664f1169a55: {ver: 1, file: flow_git_test.snapshot, comments: Initial
-      commit, author: anonymous, created: 1715248340887, flowName: flow_git_test,
+  195fc342-8b6b-4470-bc18-4664f1169a55: {ver: 2, file: flow_git_test.snapshot, comments: second
+      change, author: anonymous, created: 1715248409125, flowName: flow_git_test,
     flowDesc: connecting git}
 layoutVer: 1
 bucketId: a2648c96-21f6-4219-bd8c-a48ec6eacaf2

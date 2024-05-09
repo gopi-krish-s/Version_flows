@@ -49,8 +49,8 @@
           "name" : "CalculateRecordStats",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 888.0,
-            "y" : 192.0
+            "x" : 624.0,
+            "y" : 176.0
           },
           "properties" : {
             "record-stats-limit" : "10"
@@ -100,8 +100,8 @@
           "name" : "AttributeRollingWindow",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 504.0,
-            "y" : 192.0
+            "x" : 160.0,
+            "y" : 488.0
           },
           "properties" : { },
           "propertyDescriptors" : {
